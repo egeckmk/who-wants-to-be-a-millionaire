@@ -1,0 +1,274 @@
+{
+  "questions": [
+    {
+      "question": "Tavlada oyun dışı bırakılan pul nasıl tanımlanır?",
+      "options": {
+        "a": "Sakat",
+        "b": "Kırık",
+        "c": "Dökük",
+        "d": "Çıkık"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "question": "Türkiyenin başkenti neresidir?",
+      "options": {
+        "a": "Bursa",
+        "b": "Ankara",
+        "c": "Antalya",
+        "d": "İzmir"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "question": "Deyime göre, bozacının şahidi kimdir?",
+      "options": {
+        "a": "Yoğurtucu",
+        "b": "Sütçü",
+        "c": "Şıracı",
+        "d": "Turşucu"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "question": "Ünlü müzikaldeki Hürmüz karakterinin kaç kocası vardır?",
+      "options": {
+        "a": "Üç",
+        "b": "Yedi",
+        "c": "İki",
+        "d": "Beş"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "question": "İç salgı bezlerinin fonksiyonlarını, hastalıklarını ve bunların tedavilerini inceleyen tıp dalı hangisidir?",
+      "options": {
+        "a": "Endokrinoloji",
+        "b": "Hematoloji",
+        "c": "Deontoloji",
+        "d": "BeEkrinolojiş"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "question": "Çanakkale Savaşı'nda büyük yararı görülen Türk mayın gemisinin adını biliyor musunuz?",
+      "options": {
+        "a": "Yavuz",
+        "b": "Midilli",
+        "c": "Afyon",
+        "d": "Nusret"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "question": "Aşağıdaki spor branşlarından hangisi bir takım spordur?",
+      "options": {
+        "a": "Hentbol",
+        "b": "Sürat Pateni",
+        "c": "Karting",
+        "d": "Kayak"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "question": "'Haşir neşir' olmak ne demektir?",
+      "options": {
+        "a": "Sevinmek",
+        "b": "Kaynaşmak",
+        "c": "Kaybolmak",
+        "d": "Dağılmak"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "question": "'Çığlık' adıyla beyaz perdede izlediğimiz filmin orjinal adı nedir?",
+      "options": {
+        "a": "The Bodyguard",
+        "b": "Papillon",
+        "c": "East Of Eden",
+        "d": "Scream"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "question": "Aşağıdakilerden hangisi reform hareketini başlatan ve protestanlığı kuran kişidir?",
+      "options": {
+        "a": "Jan Jack Rousseau",
+        "b": "Edmund Spencer",
+        "c": "Martin Luther",
+        "d": "Thomas Hobbes"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "question": "Fransız besteci George Bizet'nin,İspanyol bir çingenenin aşkını anltan ünlü operasının adı nedir?",
+      "options": {
+        "a": "Madame Butterfly",
+        "b": "Carmen",
+        "c": "Nabucco",
+        "d": "Othello"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "question": "Hz. Muhammed' in göğe çıktığına inanılan recep ayının yirmi yedinci gecesi aşağıdakilerden hangisidir?",
+      "options": {
+        "a": "Miraç",
+        "b": "Şevval",
+        "c": "Berat",
+        "d": "Regaip"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "question": "Aşağıdakilerden hangisi biyolojide hayvan bilimidir?",
+      "options": {
+        "a": "Hidrobiyoloji",
+        "b": "Zooloji",
+        "c": "Mikrobiyoloji",
+        "d": "Botanik"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "question": "Hangisi resim sanatında bir ana renktir?",
+      "options": {
+        "a": "Sarı",
+        "b": "Yeşil",
+        "c": "Mor",
+        "d": "Turuncu"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "question": "Binlerce kişinin öldüğü Panama Kanalı inşaatında işçi olarak çalışmış olan dünyaca ünlü ressam kimdir?",
+      "options": {
+        "a": "Van Gogh",
+        "b": "Paul Gaugin",
+        "c": "Toulouse Lautrec",
+        "d": "Gustav Klimt"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "question": "'Lost Highway' adlı albümleri olan ve solistiyle aynı ada sahip grup hangisidir?",
+      "options": {
+        "a": "Bon Jovi",
+        "b": "Nirvana",
+        "c": "Pink Floyd",
+        "d": "Pearl Jam"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "question": "Erzurum'un simgesi sayılan yapı aşağıdakilerden hangisidir?",
+      "options": {
+        "a": "Gök Medrese",
+        "b": "Çifte Minareli Medrese",
+        "c": "İshakpaşa Sarayı",
+        "d": "Alaaddin Keykubat Camii"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "question": "Rusya'nın I.Dünya savaşından çekilmesi ile sonuçlanan antlaşma hangisidir?",
+      "options": {
+        "a": "Uşi",
+        "b": "Paris",
+        "c": "Brest-Litowsk",
+        "d": "Versay"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "question": "Charles Dickens'ın küçük çocukların köle gibi çalıştırılmasını eleştirdiği ünlü eseri hangisidir?",
+      "options": {
+        "a": "Oliver Twist",
+        "b": "Antikacı Dükkanı",
+        "c": "Büyük Umutlar",
+        "d": "Perili Ev"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "question": "Formula 1 yarış takviminde yer alan Belçika Grand Prbc'i hangi pistte yapılmaktadır?",
+      "options": {
+        "a": "Spa-Francorchamp",
+        "b": "Couligny",
+        "c": "Magny Cours",
+        "d": "Le Mans"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "question": "Hangisi Osmanlı tahtına iki kez çıkmış bir padişahtır?",
+      "options": {
+        "a": "II.Selim",
+        "b": "II.Murat",
+        "c": "I.Bayezid",
+        "d": "IV.Murat"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "question": "1884'de doğan ünlü romancımız Halide Edip hangi yıl ölmüştür?",
+      "options": {
+        "a": "1962",
+        "b": "1966",
+        "c": "1964",
+        "d": "1963"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "question": "Aşağıdaki eserlerden hangisi Namık Kemal'e aittir?",
+      "options": {
+        "a": "Rüya",
+        "b": "Araba Sevdası",
+        "c": "Gülnihal",
+        "d": "Sergüzeşt"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "question": "Kızılötesi ışın sözcüğünün eş anlamlısına ne ad verilir?",
+      "options": {
+        "a": "Defaruj",
+        "b": "Morötesi",
+        "c": "Rötgen",
+        "d": "Enfraruj"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "question": "İnci, hangi deniz yumuşakçasından elde edilir?",
+      "options": {
+        "a": "Mercan",
+        "b": "Denizatı",
+        "c": "Ahtapot",
+        "d": "İstiridye"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "question": "'Damar kasılması' için kullanılan tıbbi terim hangisidir?",
+      "options": {
+        "a": "Vazodilatör",
+        "b": "Vazokonstrüksiyon",
+        "c": "Vazokonstrüktör",
+        "d": "Vazospazm"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "question": "Luigi Pirandello ve Umberto Eco hangi ülkenin yazarlarıdır?",
+      "options": {
+        "a": "İtalya",
+        "b": "İspanya",
+        "c": "Makedonya",
+        "d": "Finlandiya"
+      },
+      "correctAnswer": "a"
+    }
+  ]
+}
